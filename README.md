@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://github.com/BongominRonald">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=78A22F&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Ronald+Bongomin+%F0%9F%91%8B;Software+Engineer+%26+Full-Stack+Architect;Building+Resilient+Web+Platforms+%26+Cloud+Systems;B.S.+Software+Engineering+%7C+MUST+Alum;Crafting+Scalable%2C+Production-Grade+Code" alt="Ronald Bongomin Typing Headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=78A22F&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Ronald+Bongomin+%F0%9F%91%8B;Software+Engineer+%26+Full-Stack+Architect;Building+High-Performance+Web+Platforms+%26+APIs;Engineering+Resilient+Distributed+Architectures;Crafting+Production-Grade%2C+Scalable+Code" alt="Ronald Bongomin Typing Headline" />
   </a>
 
   <p align="center">
@@ -15,9 +15,9 @@
   </p>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Education-B.S._Software_Engineering-blue?style=flat-square&logo=academia&logoColor=white" alt="Education" />
-    <img src="https://img.shields.io/badge/Alma_Mater-Mbarara_University_of_Science_%26_Technology_(MUST)-darkblue?style=flat-square" alt="MUST" />
-    <img src="https://img.shields.io/badge/Focus-Enterprise_Web_Platforms-success?style=flat-square" alt="Focus" />
+    <img src="https://img.shields.io/badge/Role-Full--Stack_Software_Engineer-blue?style=flat-square&logo=codeforces&logoColor=white" alt="Role" />
+    <img src="https://img.shields.io/badge/Architecture-Enterprise_Web_Platforms-darkblue?style=flat-square" alt="Architecture" />
+    <img src="https://img.shields.io/badge/Core_Stack-Laravel_%26_PHP_%7C_React_%7C_SQL-success?style=flat-square" alt="Core Stack" />
     <img src="https://img.shields.io/badge/Status-Open_for_Opportunities-brightgreen?style=flat-square" alt="Status" />
   </p>
 
@@ -27,12 +27,12 @@
 
 ### 👨‍💻 About Me
 
-I am a **Software Engineer** graduated from **Mbarara University of Science and Technology (MUST)**, specializing in designing and deploying full-stack web applications, resilient backend architectures, and production-grade cloud integrations.
+I am a **Software Engineer** specializing in designing and deploying full-stack web applications, resilient backend architectures, and production-grade cloud integrations. With a strong commitment to clean architecture, performance optimization, and database integrity, I build high-availability software platforms engineered for real-world enterprise demands.
 
-- 🔭 **Currently Engineering**: High-throughput B2B commodity trading and export pipelines with real-time telemetric dispatch.
+- 🔭 **Current Focus**: High-throughput B2B commodity trading systems, automated quotation engines, and real-time telemetric dispatch infrastructure.
 - 💡 **Engineering Philosophy**: Clean architecture, test-driven reliability, intuitive UX affordance, and defense-in-depth security.
-- 🎓 **Academic Foundation**: Bachelor of Science in Software Engineering from Mbarara University of Science and Technology.
-- 💬 **Ask Me About**: Laravel ecosystem, PHP internals, full-stack architecture, relational database modeling, and RESTful API engineering.
+- ⚡ **Production Experience**: Architecting full-lifecycle web applications from database modeling and API development to cloud deployment and automated CI/CD pipelines.
+- 💬 **Core Expertise**: Laravel ecosystem, PHP internals, asynchronous notifications, relational database modeling, and RESTful API architecture.
 - 📫 **Direct Reach**: [abonga029@gmail.com](mailto:abonga029@gmail.com)
 
 ---
@@ -41,27 +41,28 @@ I am a **Software Engineer** graduated from **Mbarara University of Science and 
 
 <table>
   <tr>
-    <td width="20%" align="center"><strong>Backend & Languages</strong></td>
+    <td width="22%" align="center"><strong>Backend & Languages</strong></td>
     <td>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
     </td>
   </tr>
   <tr>
-    <td width="20%" align="center"><strong>Frontend & UI</strong></td>
+    <td width="22%" align="center"><strong>Frontend & UI</strong></td>
     <td>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
       <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap 5" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Blade-F05340?style=for-the-badge&logo=laravel&logoColor=white" alt="Blade" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     </td>
   </tr>
   <tr>
-    <td width="20%" align="center"><strong>Databases & Storage</strong></td>
+    <td width="22%" align="center"><strong>Databases & Storage</strong></td>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -70,7 +71,7 @@ I am a **Software Engineer** graduated from **Mbarara University of Science and 
     </td>
   </tr>
   <tr>
-    <td width="20%" align="center"><strong>DevOps & Workflow</strong></td>
+    <td width="22%" align="center"><strong>DevOps & Workflow</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
@@ -111,7 +112,7 @@ I am a **Software Engineer** graduated from **Mbarara University of Science and 
       <h4>🎓 <a href="https://github.com/BongominRonald/Cyber">Cyber Attendance System</a></h4>
       <p><em>Institutional QR-Code Verification & Attendance Platform</em></p>
       <ul>
-        <li>Dynamic QR-code generation and rapid scan verification for university students and faculty.</li>
+        <li>Dynamic QR-code generation and rapid scan verification for institutional organizations and members.</li>
         <li>Role-based access control (RBAC), anti-proxy safeguards, and audit reporting.</li>
         <li>Built with high data-integrity relational models and responsive UI.</li>
       </ul>
@@ -196,5 +197,5 @@ I am a **Software Engineer** graduated from **Mbarara University of Science and 
 <br />
 
 <div align="center">
-  <sub>Designed with craftsmanship &bull; Ronald Bongomin &bull; Mbarara University of Science and Technology</sub>
+  <sub>Designed with craftsmanship &bull; Ronald Bongomin &bull; Full-Stack Software Engineer</sub>
 </div>
